@@ -1,0 +1,23 @@
+[
+    {
+        "name":"watch",
+        "price":3563,
+        "company":"apple"
+    },
+    {
+        "name":"phone",
+        "price":7564,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone",
+        "price":135,
+        "feature":true,
+        "company":"apple"
+    },
+    {
+        "name":"mi720",
+        "price":524,
+        "company":"mi"
+    }
+]
